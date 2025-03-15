@@ -12,6 +12,7 @@ public class Test3Application {
 		int y = 200;
 		double z = 10.3;
 		boolean isPresent= false;
+		
 		SpringApplication.run(Test3Application.class, args);
 	}
 
